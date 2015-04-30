@@ -1,8 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_drawtext" id="377" x="-276" y="-15">
-    <field name="TEXT"></field>
-  </block>
-  <block type="controls_whileUntil" id="13" inline="false" x="193" y="92">
+  <block type="controls_whileUntil" id="13" inline="false" x="-249" y="32">
     <field name="MODE">UNTIL</field>
     <value name="NUMBER">
       <block type="sensor_button" id="36">
